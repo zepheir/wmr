@@ -1,0 +1,19 @@
+{
+  "name": "srv_arm",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app2.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "colors": "^1.1.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "~4.13.4",
+    "jade": "~1.11.0",
+    "morgan": "~1.7.0",
+    "serialport": "1.6.1",
+    "serve-favicon": "~2.3.0"
+  }
+}
