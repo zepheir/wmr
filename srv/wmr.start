@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+nohup node /mnt/data0/app/wmr/srv/server.js >> /tmp/wmr_server.log &

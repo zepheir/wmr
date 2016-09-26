@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+kill -9 `cat /mnt/data0/app/wmr/srv/server.pid`
+rm -f /mnt/data0/app/wmr/srv/server.pid
